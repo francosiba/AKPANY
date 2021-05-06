@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "62873040462",
+    "firebase_url": "https://driveapp2020.firebaseio.com",
+    "project_id": "driveapp2020",
+    "storage_bucket": "driveapp2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62873040462:android:a496029ead01d28786b51f",
+        "android_client_info": {
+          "package_name": "com.akpany.livrero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ-LmnEthEppeGzv4Df_UQbgzevOOSiFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62873040462:android:c64fc8386c1fa56186b51f",
+        "android_client_info": {
+          "package_name": "livrero.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ-LmnEthEppeGzv4Df_UQbgzevOOSiFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62873040462:android:901546711392985986b51f",
+        "android_client_info": {
+          "package_name": "sogood.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ-LmnEthEppeGzv4Df_UQbgzevOOSiFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62873040462-r3fgo17onsakrb950poi65v6eqoeavmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
